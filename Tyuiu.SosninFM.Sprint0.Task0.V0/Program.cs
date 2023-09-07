@@ -10,6 +10,7 @@ namespace Tyuiu.SosninFM.Sprint0.Task0.V0
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
